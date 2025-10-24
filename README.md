@@ -3,9 +3,8 @@
 🎓 Currently pursuing my Master’s in Software Engineering at the **University of Innsbruck**, I am a passionate software developer with a focus on **Web/Desktop applications** and **Machine Learning**. 
 
 ## 🚀 Current Projects
-- **Bachelor Thesis**: Surgical Risk Prediction with Machine Learning
-- **Household Management App**: Shared task management built with React
-- **NEO Classifier**: Assessing Near-Earth Object impact risks using ML
+- **Masters Thesis**: Co-Simulation
+- **C++ Game Engine**: Building my own game engine
 
 ## 🌟 Fields of Interest
 - **Software Design and Development Processes**
