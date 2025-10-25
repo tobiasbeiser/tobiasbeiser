@@ -1,25 +1,22 @@
-# Hi there! 👋 I'm Tobias Beiser
+# Tobias Beiser
 
-🎓 Currently pursuing my Master’s in Software Engineering at the **University of Innsbruck**, I am a passionate software developer with a focus on **Web/Desktop applications** and **Machine Learning**. 
+I am currently pursuing a Master’s degree in **Software Engineering** at the **University of Innsbruck**. My work and interests center on **web and desktop application development**, **software architecture**, and **machine learning**. I approach software projects with a strong focus on design, maintainability, and performance.
 
-## 🚀 Current Projects
-- **Masters Thesis**: Co-Simulation
-- **C++ Game Engine**: Building my own game engine
+## Current Projects
+- **Master’s Thesis**: Co-Simulation  
+- **C++ Game Engine**: Developing a custom game engine from the ground up
 
-## 🌟 Fields of Interest
-- **Software Design and Development Processes**
-- **Machine Learning**
-- **Web Development**
-- **Cyber Security**
+## Areas of Interest
+- Software Design and Development Processes  
+- Machine Learning  
+- Web Development  
+- Cyber Security  
 
-## 💻 Skills
-- **Programming Languages**: C#/.NET, WPF, TypeScript, C, C++, Java (Spring), React, Vue
-- **Favorites**: C#, C++
-- **Learning Next**: Rust
-- 🖥️ Mostly working on **Arch Linux**
+## Technical Skills
+- **Languages**: C#/.NET, WPF, TypeScript, C, C++, Java (Spring), React, Vue  
+- **Preferred**: C#, C++  
+- **Currently Exploring**: Rust  
+- **Primary Environment**: Arch Linux  
 
-## 🌄 Outside of Code
-When I’m not coding, you’ll find me embracing the great outdoors:
-- 🏞️ Alpine and outdoor sports: climbing, kayaking, snowboarding, and canyoning
-- 🎥 Filmmaking: Capturing adventures on camera
-- 🧗 Always seeking the next adventure!
+## Beyond Software
+Outside of development, I spend much of my time in the mountains, climbing, kayaking, snowboarding and canyoning. I also enjoy filmmaking and documenting these adventures.
